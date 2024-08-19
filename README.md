@@ -55,11 +55,7 @@ Using logistic regression, the predictive model was developed with the following
 
 The model's performance is evaluated using metrics such as:
 
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- AUC-ROC
+- Accuracy: 79%
 
 These metrics demonstrate the model's ability to accurately predict employee absenteeism patterns.
 
